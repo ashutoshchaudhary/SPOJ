@@ -23,7 +23,7 @@ int main()
 		for(j = 0; j < t; j++)
 			{
 				int n, i;
-				long long int a[1001], d[1001];
+				long long int a[10001], d[10001];
 
 				scanf("%d", &n);
 
